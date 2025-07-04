@@ -1,1 +1,3 @@
-# hello this is my fist repository
+# Repo!
+
+# this is my first repository
